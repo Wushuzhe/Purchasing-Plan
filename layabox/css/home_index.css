@@ -1,0 +1,158 @@
+.navbar-brand {
+    padding: 7px 15px;
+}
+.navbar {
+    margin-bottom: 0px;
+}
+
+
+
+.banner-box{
+    background: #2b80d9;
+}
+.center-block{
+    margin-top: 50px;
+}
+
+
+/* layaFlash */
+.flash-title{
+    margin-bottom: 40px;
+}
+.flash-title h1{
+    color: #2b80d9;
+}
+.flash-title h3{
+    margin-top: 20px;
+    color: gray;
+}
+.flash-items .media-left .media-object{
+    background: #2b80d9;
+    border-radius: 10%;
+}
+.flash-items .media-body p{
+    color: black;
+}
+.engine{
+    background: #fbfaf7;
+    padding: 100px 0 40px;
+}
+
+/* layabox优势 */
+.advantage{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.advantage-title{
+    text-align: center;
+    margin-bottom: 60px;
+    /* margin-top: 40px; */
+}
+.advantage-title h1{
+    font-weight: bold;
+    color: #8fc31f;
+}
+.advantage-items .media-left .media-object{
+    background: #8fc31f;
+    border-radius: 50px;
+}
+.advantage-items{
+    margin-top: 50px;
+}
+.advantage-items .media .media-body p{
+    padding-top: 18px
+}
+
+
+
+/* 产品家族 */
+.family{
+    background: #0079d7;
+    padding-bottom: 50px;
+}
+.family-title{
+    text-align: center;
+    margin-bottom: 60px;
+    margin-top: 50px;
+}
+.family-title h1{
+    color: white;
+    font-weight: bold;
+}
+.family-items .media{
+    margin-left: 60px;
+    margin-bottom: 60px;
+    height: 100px
+}
+.family-items .media .media-body{
+    width: 300px;
+    float: left;
+    margin-left: 120px;
+    margin-top: -65px
+}
+.family-items .media .media-body h4,p{
+    color: white
+}
+
+
+/* game */
+.game{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.game-title{
+    padding-bottom: 50px
+}
+.game-title a{
+    float: right;
+    margin-top: -30px;
+    margin-right: 22px;
+    color: #2a2a2a;
+}
+.game-menu{
+    padding-top: 0px
+}
+.game-items p{
+    color: black;
+}
+.game-menu img{
+    margin-top: 5px;
+}
+/* 合作伙伴 */
+.cooperation{
+    background: #f4f4f4;
+    padding-bottom: 60px
+}
+.cooperation-title{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.detailed{
+    padding-bottom: 30px;
+    margin-top: 10px;
+}
+
+
+/* foot */
+.foot{
+    background: #3b3b3b;    
+}
+.foot-title{
+    padding-top: 5px
+}
+.wechat-title{
+    margin-top: 25px;
+}
+.box1{
+    position: relative;
+}
+.box2{
+    display: none;
+    position: absolute;
+    left: 234px;
+    width: 100px;
+    top: -110px;
+}
+.box1:hover .box2{
+    display: block;
+}

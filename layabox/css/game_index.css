@@ -1,0 +1,81 @@
+.navbar-brand {
+    padding: 7px 15px;
+}
+.navbar {
+    margin-bottom: 0px;
+}
+
+/* banner */
+.banner-box{
+    margin-top: 50px;
+}
+
+/* 猎刃2 */
+.game1{
+    padding-top: 50px;
+}
+.game-img2{
+    /* width: 260px; */
+    padding-top: 20px;
+    /* border-radius: 7px; */
+}
+
+/* 上吧主动 */
+.game2{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+/* 更多案例 */
+.case{
+    padding-top: 50px;
+    padding-bottom: 80px;
+}
+.case-img{
+    padding-top: 30px;
+    position: relative;
+}
+.ccc{
+    display: none;
+    width: 314px;
+    height: 138px;
+    color: #e0dddd;
+    background-color: rgba(0, 0, 0, 0.6);
+    position: absolute;
+    top: 30px;
+    left: 43px;
+    font-size: 12px;
+    line-height: 22px;
+}
+.ccc p{
+    position: absolute;
+    left: 10px;
+    top: 10px;
+}
+.case-img:hover .ccc{
+    display: block;
+}
+
+/* foot */
+.foot{
+    background: #3b3b3b;    
+}
+.foot-title{
+    padding-top: 5px
+}
+.wechat-title{
+    margin-top: 25px;
+}
+.box1{
+    position: relative;
+}
+.box2{
+    display: none;
+    position: absolute;
+    left: 234px;
+    width: 100px;
+    top: -110px;
+}
+.box1:hover .box2{
+    display: block;
+}

@@ -1,0 +1,151 @@
+.navbar-brand {
+    padding: 7px 15px;
+}
+.navbar {
+    margin-bottom: 0px;
+}
+
+
+/* LayaFlash */
+.engine{
+    background: #8bc01f;
+    margin-top: 50px;
+}
+.flash-title{
+    position: relative;
+    padding-top: 60px;
+    padding-bottom: 50px;
+}
+.box1{
+    width: 50px;
+    height: 50px;
+    border-radius: 5px;
+    background: white;
+    font-size: 35px;
+    text-align: center;
+    position: absolute;   
+}
+.p1{
+    color: #8bc01f;
+}
+.flash-title h1{
+    margin-left: 60px;
+    margin-top: 5px;
+    color: white;
+}
+.engine-text{
+    margin-top: 80px;
+    margin-left: 20px;
+    line-height: 30px;
+    color: white;
+}
+.engine-text p{
+    line-height: 40px;
+}
+
+.btn-default{
+    width: 100px;
+    color: #8bc01f;
+    line-height: 20px;
+}
+.engine-picture{
+    padding-top: 70px;
+    padding-bottom: 50px;
+}
+
+
+/* LayaPlayer */
+.player{
+    background: #3393df;
+}
+.player-title{
+    margin-top: 50px;
+    
+}
+.p3{
+    color: #3393df;
+}
+.picture-one{
+    padding-top: 20px;
+}
+.player-title h1{
+    margin-left: 60px;
+    margin-top: 5px;
+    color: white;
+}
+.performance h3{
+    font-weight: bold;
+    color: white;
+}
+.performance p{
+    line-height: 35px;
+    color: white;
+}
+.picture-two{
+    padding-top: 130px;
+    padding-bottom: 50px;
+}
+
+/* LayaAir and Open */
+.AirOpen{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.air-title{
+    position: relative;
+    margin-top: 30px;
+}
+.box2{
+    width: 30px;
+    height: 30px;
+    background: #3393df;
+    text-align: center;
+}
+.air-title h3{
+    color: #3393df;
+    position: absolute;
+    top: -17px;
+    left: 50px;
+}
+.box3{
+    margin-top: 20px;
+    margin-left: -15px;
+    line-height: 30px;
+}
+.box4{
+    float: left;
+    margin-left: -50px;
+    margin-top: 30px;
+    
+}
+
+/* LayaStore and Publish */
+.StorePublish{
+    background: #f7f7f7;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+/* 尾部 */
+.foot{
+    background: #3b3b3b;    
+}
+.foot-title{
+    padding-top: 5px
+}
+.wechat-title{
+    margin-top: 25px;
+}
+.box5{
+    position: relative;
+}
+.box6{
+    display: none;
+    position: absolute;
+    left: 234px;
+    width: 100px;
+    top: -110px;
+}
+.box5:hover .box6{
+    display: block;
+}

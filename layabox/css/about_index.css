@@ -1,0 +1,151 @@
+.navbar-brand {
+    padding: 7px 15px;
+}
+.navbar {
+    margin-bottom: 0px;
+}
+
+/* banner */
+.banner{
+    margin-top: 51px;
+}
+
+/* 公司简介 */
+.Introduce{
+    padding-bottom: 60px;
+}
+.Introduce .Introduce-title{
+    padding-top: 60px;
+}
+.p1{
+    line-height: 40px;
+    font-size: 21px;
+}
+.Introduce-items{
+    line-height: 30px;
+    text-indent: 2em;
+}
+.Introduce .logo-picture{
+    padding-top: 100px;
+}
+
+/* 人才招聘 */
+.talent{
+    background: #8cc11f;
+    padding-bottom: 50px;
+}
+.talent-title{
+    padding-top: 80px;
+    color: white;
+}
+.talent-items{
+    color: white;
+    padding-top: 30px;
+    line-height: 30px;
+}
+.mailbox{
+    padding-top: 35px;
+    color: white;
+}
+.btn-default{
+    color: #8cc11f;
+    font-size: 20px;
+}
+
+/* as3引擎开发 */
+.engine{
+    border-bottom: 1px solid #d2d2d2;
+    padding-bottom: 50px;
+}
+.engine-title{
+    padding-top: 80px;
+}
+.engine-title ul{
+    margin-top: 30px;
+    list-style: none;
+    float: left;
+    margin-left: -40px;
+    line-height: 30px;
+}
+
+
+.position{
+    border-bottom: 1px solid #d2d2d2;
+    padding-bottom: 50px;
+}
+.position-title{
+    padding-top: 50px;
+}
+.position-title ul{
+    margin-top: 30px;
+    list-style: none;
+    float: left;
+    margin-left: -40px;
+    line-height: 30px;
+}
+
+.android{
+    padding-bottom: 80px;
+}
+.android-title{
+    padding-top: 50px;
+}
+.android-title ul{
+    margin-top: 30px;
+    list-style: none;
+    float: left;
+    margin-left: -40px;
+    line-height: 30px;
+}
+
+
+/* 联系方式 */
+.cantact{
+    background: #f4f4f4;
+    padding-bottom: 45px;
+}
+.cantact-title{
+    padding-top: 30px;
+}
+.box{
+    width: 550px;
+    height: 100px;
+    border-radius: 5px;
+    background: white;
+    position: relative;
+    margin-top: 20px;
+}
+.box img{
+    position: absolute;
+    left: 15px;
+    top: 15px;
+}
+.box p{
+    position: absolute;
+    left: 100px;
+    top: 40px;
+}
+
+/* 尾部 */
+.foot{
+    background: #3b3b3b;    
+}
+.foot-title{
+    padding-top: 5px
+}
+.wechat-title{
+    margin-top: 25px;
+}
+.box1{
+    position: relative;
+}
+.box2{
+    display: none;
+    position: absolute;
+    left: 234px;
+    width: 100px;
+    top: -110px;
+}
+.box1:hover .box2{
+    display: block;
+}

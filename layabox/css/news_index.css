@@ -1,0 +1,101 @@
+.navbar-brand {
+    padding: 7px 15px;
+}
+.navbar {
+    margin-bottom: 0px;
+}
+
+
+
+/* 新闻动态 */
+.news{
+    margin-top: 70px;
+    margin-bottom: 50px;
+}
+.news-title{
+    padding-left: 43px;
+}
+.news-img img{
+    margin-top: 40px;
+    border: 1px solid gray;
+    position: relative;
+    border-radius: 5px;
+}
+.ccc{
+    display: none;
+    position: absolute;
+    width: 304px;
+    height: 35px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.6);
+    left: 43px;
+    top: 187px;
+    text-align: center;
+    line-height: 35px;
+    z-index: 1;
+
+}
+.news-img:hover .ccc{
+    display: block;
+}
+
+
+.news-content{
+    margin-top: 100px;
+}
+.news-content .media .media-body{
+    line-height: 30px;
+}
+.media .media-body .media-heading{
+    margin-left: 30px;
+}
+.media-left{
+    padding-left: 15px;
+}
+.botton1{
+    border-radius: 50px;
+}
+.news-content1{
+    margin-top: 20px;
+}
+.news-content1 .media .media-body{
+    line-height: 25px;
+}
+.botton2{
+    border-radius: 50px;
+    border: 1px solid #ff6b08;
+    color: #ff6b08;
+}
+hr{
+    border: 1px dashed rgb(179, 177, 177);
+}
+
+
+/* foot */
+.foot{
+    background: #3b3b3b;
+    margin-top: 30px;
+}
+.foot-title p{
+    color: #a1a3ab;
+    margin-left: 20px;
+}
+.wechat-title{
+    margin-top: 25px;
+}
+.box1{
+    position: relative;
+}
+.box1 img{
+    margin-right: 20px
+}
+.box2{
+    display: none;
+    position: absolute;
+    left: 234px;
+    width: 100px;
+    top: -110px;
+}
+.box1:hover .box2{
+    display: block;
+}
